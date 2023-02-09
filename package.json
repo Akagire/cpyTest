@@ -4,9 +4,9 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "start": "node index.cjs"
+    "start": "node index.mjs"
   },
   "dependencies": {
-    "cpy": "8.1.2"
+    "cpy": "9.0.1"
   }
 }
